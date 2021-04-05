@@ -1,0 +1,41 @@
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.exe
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.deps.json
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.runtimeconfig.json
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.runtimeconfig.dev.json
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.dll
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.pdb
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.Views.dll
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\bin\Debug\netcoreapp3.1\Time and Money.Views.pdb
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.AssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.RazorAssemblyInfo.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.RazorAssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\staticwebassets\Time and Money.StaticWebAssets.Manifest.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\staticwebassets\Time and Money.StaticWebAssets.xml
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\scopedcss\bundle\Time and Money.styles.css
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.TagHelpers.input.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.TagHelpers.output.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.RazorCoreGenerate.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.RazorTargetAssemblyInfo.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.RazorTargetAssemblyInfo.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.Views.pdb
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.dll
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.pdb
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.genruntimeconfig.cache
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Time and Money.csproj.CopyComplete
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewUser.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddActivity.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActivityDetails.cshtml.g.cs
+C:\Users\wwstudent\Desktop\Adam\Visual Studio\Time and Money Solution\Time and Money\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditActivity.cshtml.g.cs
