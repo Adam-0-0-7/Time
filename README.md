@@ -18,4 +18,4 @@ The application will take this data and calculate how much free-time is availabl
 The information will be provided to the viewer in an easy-to-read format. 
 The user will be able to make better informed decisions on how to utilize their time.
 
-[Concept Diagram]
+[Concept Diagram](https://github.com/Adam-0-0-7/Time-Money/blob/main/Copy%20of%20Conceptual%20Database%20Design.pdf)
