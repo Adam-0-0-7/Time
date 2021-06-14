@@ -17,3 +17,5 @@ There is a section where you can add time for activities such as:
 The application will take this data and calculate how much free-time is available. 
 The information will be provided to the viewer in an easy-to-read format. 
 The user will be able to make better informed decisions on how to utilize their time.
+
+[Concept Diagram]
